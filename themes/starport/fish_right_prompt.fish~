@@ -1,3 +1,4 @@
 function fish_right_prompt
 	set -l code $status
+	date '+%d/%m/%y'
 end
